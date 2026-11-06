@@ -2,7 +2,7 @@
 
 **Quantum Photonics Researcher** · Quantum optics · Photonic quantum computing · Integrated photonics 
 
-Master's student at Bar-Ilan University
+Master's student at BIU
 
 🔗 [ORCID](https://orcid.org/0009-0008-0321-6049) · ✉️ yoav.yosif-or@biu.ac.il
 
